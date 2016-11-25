@@ -1,0 +1,14 @@
+conv1 5 1
+pool1 2 2
+conv2 5 1
+pool2 2 2
+conv3 5 1
+conv4 9 1
+conv5 1 1
+conv6 1 1
+conv7 9 1
+conv8 13 1
+conv9 13 1
+conv10 15 1
+conv11 1 1
+conv12 1 1

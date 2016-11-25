@@ -1,3 +1,19 @@
+# Folders 
+cache
+dataset
+prototxt
+
+# General files
+*~
+
+# Images
+*.bmp
+*.jpg
+*.png
+
+# Mat files
+*.mat
+
 # Compiled Object files
 *.slo
 *.lo
